@@ -12,6 +12,37 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.las400clases.com/sites/default/files/notas/encuentro.jpg" group-title=,Encuentro
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
 
+#EXTINF:-1,AR: AMERICA TV HD
+http://iptvluxe.servebeer.com:25461/live/Leonardo/Silveira/23154.m3u8
+
+#EXTINF:-1,AR: C5N
+http://iptvluxe.servebeer.com:25461/live/Leonardo/Silveira/17452.m3u8
+
+#EXTINF:-1,AR: EL NUEVE HD
+http://iptvluxe.servebeer.com:25461/live/Leonardo/Silveira/23151.m3u8
+
+#EXTINF:-1,AR: EL TRECE HD
+http://iptvluxe.servebeer.com:25461/live/Leonardo/Silveira/23150.m3u8
+
+
+#EXTINF:-1,AR: TELEFE HD
+http://iptvluxe.servebeer.com:25461/live/Leonardo/Silveira/23146.m3u8
+
+#EXTINF:-1,AR: TELEFE
+http://iptvluxe.servebeer.com:25461/live/Leonardo/Silveira/20280.m3u8
+
+#EXTINF:-1,AR: Trece HD
+http://iptvluxe.servebeer.com:25461/live/Leonardo/Silveira/20279.m3u8
+
+#EXTINF:-1,AR: TN HD
+http://iptvluxe.servebeer.com:25461/live/Leonardo/Silveira/23145.m3u8
+
+#EXTINF:-1,AR: TV Publica
+http://iptvluxe.servebeer.com:25461/live/Leonardo/Silveira/17444.m3u8
+
+
+# PREM 
+
 #EXTINF:-1,Animal Planet HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/index.m3u8
 
@@ -32,6 +63,3 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(EUROCHANNEL)/index.m3u8
 
 #EXTINF:-1,FX HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG - AMERICA HD" tvg-logo="https://3.bp.blogspot.com/-Jt4x7NEZbHw/Vw7k_1NTXqI/AAAAAAAABJc/sxdXaK8vBF0VQKGxwhKuaHlqjXiWKLRBgCLcB/s1600/America%2BTV%2BHD.png" group-title="ARGENTINA",ARG - AMERICA HD
-http://tv.nousiptv.com:25462/live/Ivan/Ivan/27.m3u
