@@ -13,7 +13,6 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
 
 #EXTINF:-1,C5N
-http://www.ustream.tv/embed/17916695?autoplay=true
 
 #EXTINF:-1,CN23
 https://www.youtube.com/embed/km0L-WDJ6ic
@@ -23,3 +22,6 @@ https://www.youtube.com/embed/0tek2aa8hAQ
 
 #EXTINF:-1,El Trece
 http://www.ustream.tv/embed/17916695?autoplay=true
+
+#EXTINF:-1,Cinemax
+http://vercanalestv.com/tv/argentina/cinemax.html
