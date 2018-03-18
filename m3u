@@ -12,33 +12,8 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.las400clases.com/sites/default/files/notas/encuentro.jpg" group-title=,Encuentro
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
 
-#EXTINF:-1,AR: AMERICA TV HD
-http://iptvluxe.servebeer.com:25461/live/Leonardo/Silveira/23154.m3u8
-
-#EXTINF:-1,AR: C5N
-http://iptvluxe.servebeer.com:25461/live/Leonardo/Silveira/17452.m3u8
-
-#EXTINF:-1,AR: EL NUEVE HD
-http://iptvluxe.servebeer.com:25461/live/Leonardo/Silveira/23151.m3u8
-
-#EXTINF:-1,AR: EL TRECE HD
-http://iptvluxe.servebeer.com:25461/live/Leonardo/Silveira/23150.m3u8
-
-
-#EXTINF:-1,AR: TELEFE HD
-http://iptvluxe.servebeer.com:25461/live/Leonardo/Silveira/23146.m3u8
-
-#EXTINF:-1,AR: TELEFE
-http://iptvluxe.servebeer.com:25461/live/Leonardo/Silveira/20280.m3u8
-
-#EXTINF:-1,AR: Trece HD
-http://iptvluxe.servebeer.com:25461/live/Leonardo/Silveira/20279.m3u8
-
-#EXTINF:-1,AR: TN HD
-http://iptvluxe.servebeer.com:25461/live/Leonardo/Silveira/23145.m3u8
-
-#EXTINF:-1,AR: TV Publica
-http://iptvluxe.servebeer.com:25461/live/Leonardo/Silveira/17444.m3u8
+#EXTINF:-1,TODO NOTICIAS
+http://latinchannel.tv:8000/live/sonia2/321/1025.ts
 
 
 # PREM 
