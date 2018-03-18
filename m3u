@@ -13,7 +13,7 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
 
 #EXTINF:-1,C5N
-rtmp://c5n.stweb.tv:1935/c5n/live
+rtmp://c5n.stweb.tv:1935/c5n/.m3u8
 
 #EXTINF:-1,TN
 http://158.69.226.108:8000/live/carlo/carlo1/1405.m3u8
@@ -46,22 +46,22 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(EUROCHANNEL)/index.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/index.m3u8
 
 #EXTINF:-1 tvg-id="America2.ar" tvg-name="ARG - AMERICA TV." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png" group-title="ARGENTINA",ARG - AMERICA TV.
-http://tv.nousiptv.com:25462/live/Ivan/Ivan/2040.ts
+http://tv.nousiptv.com:25462/live/Ivan/Ivan/2040.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG - TV PUBLICA HD" tvg-logo="http://canal12misiones.com/cftvp/wp-content/uploads/2014/03/logo-cana-7-TV_P%C3%BAblica.png" group-title="ARGENTINA",ARG - TV PUBLICA HD
-http://tv.nousiptv.com:25462/live/Ivan/Ivan/3417.ts
+http://tv.nousiptv.com:25462/live/Ivan/Ivan/3417.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="ARG - TV PUBLICA HD (op.2)" tvg-logo="http://www.mediafire.com/convkey/99a7/1vnyy774jpd4627zg.jpg" group-title="ARGENTINA",ARG - TV PUBLICA HD (op.2)
-http://tv.nousiptv.com:25462/live/Ivan/Ivan/3440.ts
+http://tv.nousiptv.com:25462/live/Ivan/Ivan/3440.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG - TN HD" tvg-logo="https://mitvstatic.com/channels/ar_tn_m.png" group-title="ARGENTINA",ARG - TN HD
-http://tv.nousiptv.com:25462/live/Ivan/Ivan/2959.ts
+http://tv.nousiptv.com:25462/live/Ivan/Ivan/2959.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG - EL NUEVE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="ARGENTINA",ARG - EL NUEVE
-http://tv.nousiptv.com:25462/live/Ivan/Ivan/3438.ts
+http://tv.nousiptv.com:25462/live/Ivan/Ivan/3438.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG - TELEFE" tvg-logo="http://www.mediafire.com/convkey/087d/zhky8a46727g70jzg.jpg" group-title="ARGENTINA",ARG - TELEFE
-http://tv.nousiptv.com:25462/live/Ivan/Ivan/3439.ts
+http://tv.nousiptv.com:25462/live/Ivan/Ivan/3439.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG - AMERICA HD" tvg-logo="https://3.bp.blogspot.com/-Jt4x7NEZbHw/Vw7k_1NTXqI/AAAAAAAABJc/sxdXaK8vBF0VQKGxwhKuaHlqjXiWKLRBgCLcB/s1600/America%2BTV%2BHD.png" group-title="ARGENTINA",ARG - AMERICA HD
-http://tv.nousiptv.com:25462/live/Ivan/Ivan/27.ts
+http://tv.nousiptv.com:25462/live/Ivan/Ivan/27.m3u8
