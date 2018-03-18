@@ -1,0 +1,16 @@
+#EXTM3U Argentina
+
+#EXTINF:-1,Canal 26 720p
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg" group-title=,Canal 26 480p
+http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/804922110409900032/6_o7Xf13_400x400.jpg" group-title=,DeporTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
+
+#EXTINF:-1,Encuentro
+http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/master.m3u8
+
+#EXTINF:-1,ARGENTINA:Europa Europa
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
