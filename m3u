@@ -140,3 +140,47 @@ http://m3u.iptvla.xyz/usuarios/src1/Nickelodeon/Ismael.Diaz/ZEa.m3u8
 
 #EXTINF:-1 group-title="Infantiles",Nickelodeon HD
 http://latinchannel.tv:8000/live/sonia2/321/427.ts
+
+########## 24/7 ##########
+
+#EXTINF:-1 group-title="24/7",Bob Esponja
+http://m3u.iptvla.xyz/usuarios/src3/BobEsponja/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="24/7",Caballeros del Zodiaco
+http://m3u.iptvla.xyz/usuarios/src3/CaballerosDelZodiaco/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="24/7",Coyote y correcaminos
+http://m3u.iptvla.xyz/usuarios/src3/ElCoyoteYElCorrecaminos/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="24/7",Doraemon
+http://m3u.iptvla.xyz/usuarios/src3/Doraemon/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="24/7",Dragon Ball
+http://m3u.iptvla.xyz/usuarios/src3/DragonBall/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="24/7",Dragon Ball GT
+http://m3u.iptvla.xyz/usuarios/src3/DragonBallGT/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="24/7",Dragon Ball Super
+http://m3u.iptvla.xyz/usuarios/src3/DragonBallSuper/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="24/7",Dragon Ball Z
+http://m3u.iptvla.xyz/usuarios/src4/DragonBallZ/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="24/7",Dragon Ball Z Op.2
+http://m3u.iptvla.xyz/usuarios/src3/DragonBallZ2/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="24/7",Los Simpsons
+http://m3u.iptvla.xyz/usuarios/src4/LosSimpson2/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="24/7",Los Simpsons Op.2
+http://m3u.iptvla.xyz/usuarios/src5/LosSimpson/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="24/7",Padre de Familia
+http://m3u.iptvla.xyz/usuarios/src3/PadreDeFamilia/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="24/7",Pokemon
+http://m3u.iptvla.xyz/usuarios/src3/Pokemon/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="24/7", Ranma 1/2
+http://m3u.iptvla.xyz/usuarios/src3/Ranma/Ismael.Diaz/ZEa.m3u8
