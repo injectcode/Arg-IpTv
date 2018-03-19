@@ -1,39 +1,39 @@
 #EXTM3U Argentina
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg" group-title=,Canal 26 720p
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg" group-title="Noticias",Canal 26 720p
 http://200.115.193.177/live/26hd-720/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg" group-title=,Canal 26 480p
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg" group-title="Noticias",Canal 26 480p
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/804922110409900032/6_o7Xf13_400x400.jpg" group-title=,DeporTV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804922110409900032/6_o7Xf13_400x400.jpg" group-title="Noticias",DeporTV
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.las400clases.com/sites/default/files/notas/encuentro.jpg" group-title=,Encuentro
+#EXTINF:-1 tvg-logo="https://www.las400clases.com/sites/default/files/notas/encuentro.jpg" group-title="Noticias",Encuentro
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
 
-#EXTINF:-1,TN24
+#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/01/TodoNoticias12-Logo-300x300.jpg" group-title="Noticias",TN
 http://latinchannel.tv:8000/live/sonia2/321/1025.ts
 
-#EXTINF:-1,Telefe
+#EXTINF:-1 tvg-logo="http://www.baraderoteinforma.com.ar/wp-content/uploads/2017/01/cosas_640x480-23.jpg" group-title="Noticias",Telefe
 http://latinchannel.tv:8000/live/sonia2/321/1021.ts
 
-#EXTINF:-1,El Trece
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/747466054834753536/LBbftqD9_400x400.jpg" group-title="Noticias",El Trece
 http://latinchannel.tv:8000/live/sonia2/321/1020.ts
 
-#EXTINF:-1,A24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/A24-logonuevo.svg/902px-A24-logonuevo.svg.png" group-title="Noticias",A24
 http://latinchannel.tv:8000/live/sonia2/321/1026.ts
 
-#EXTINF:-1,AMERICA TV
+#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2035855.jpg" group-title="Noticias",AMERICA TV
 http://latinchannel.tv:8000/live/sonia2/321/1019.ts
 
-#EXTINF:-1,AMERICA TV HD
+#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2035855.jpg" group-title="Noticias",AMERICA TV HD
 http://latinchannel.tv:8000/live/sonia2/321/1046.ts
 
-#EXTINF:-1,C5N
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="Noticias",C5N
 http://latinchannel.tv:8000/live/sonia2/321/1024.ts
 
-#EXTINF:-1,El Nueve
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/12/elnuevenuevo.jpg" group-title="Noticias",El Nueve
 http://latinchannel.tv:8000/live/sonia2/321/1023.ts
 
 
