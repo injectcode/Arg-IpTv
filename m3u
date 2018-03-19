@@ -12,31 +12,31 @@ http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
 
 #EXTINF:-1 group-title="Noticias",CNN en Español
-http://m3u.iptvla.xyz/usuarios/src5/CNNenEspanol/Ismael.Diaz/ZEa.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/01/TodoNoticias12-Logo-300x300.jpg" group-title="Noticias",TN
-http://latinchannel.tv:8000/live/sonia2/321/1025.ts
+
 
 #EXTINF:-1 tvg-logo="http://www.baraderoteinforma.com.ar/wp-content/uploads/2017/01/cosas_640x480-23.jpg" group-title="Noticias",Telefe
-http://latinchannel.tv:8000/live/sonia2/321/1021.ts
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/747466054834753536/LBbftqD9_400x400.jpg" group-title="Noticias",El Trece
-http://latinchannel.tv:8000/live/sonia2/321/1020.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/A24-logonuevo.svg/902px-A24-logonuevo.svg.png" group-title="Noticias",A24
-http://latinchannel.tv:8000/live/sonia2/321/1026.ts
+
 
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2035855.jpg" group-title="Noticias",AMERICA TV
-http://latinchannel.tv:8000/live/sonia2/321/1019.ts
+
 
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2035855.jpg" group-title="Noticias",AMERICA TV HD
-http://latinchannel.tv:8000/live/sonia2/321/1046.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="Noticias",C5N
-http://latinchannel.tv:8000/live/sonia2/321/1024.ts
+
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/12/elnuevenuevo.jpg" group-title="Noticias",El Nueve
-http://latinchannel.tv:8000/live/sonia2/321/1023.ts
+
 
 
 ########## SERIES/PELICULAS ##########
@@ -93,6 +93,9 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/index.m
 
 #EXTINF:-1 group-title="Documentales",Animal Planet HD Op.2
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8 
 
 #EXTINF:-1 group-title="Documentales",Discovery Channel
 
