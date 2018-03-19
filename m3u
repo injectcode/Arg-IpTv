@@ -63,7 +63,7 @@ http://thenickos.tk/reddragon/failed/exit/f0x-q6.php?playlist.m3u8
 http://m3u.iptvla.xyz/usuarios/src5/Fox/Ismael.Diaz/ZEa.m3u8
 
 #EXTINF:-1group-title="Peliculas",Fox HD
-http://m3u.iptvla.xyz/usuarios/src1/Fox1HD/Ismael.Diaz/ZEa.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(04)/index.m3u8
 
 #EXTINF:-1 group-title="Peliculas",FX HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/index.m3u8
@@ -72,10 +72,13 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/index.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE_HD)/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="Peliculas",Film Zone HD
-http://m3u.iptvla.xyz/usuarios/src1/FilmZoneHD/Ismael.Diaz/ZEa.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="Peliculas", HBO2
 http://thenickos.tk/reddragon/failed/exit/hb02-q6.php?playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas", HBO Family
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="Peliculas",I-Sat
 http://m3u.iptvla.xyz/usuarios/src1/ISat/Ismael.Diaz/ZEa.m3u8
@@ -84,18 +87,30 @@ http://m3u.iptvla.xyz/usuarios/src1/ISat/Ismael.Diaz/ZEa.m3u8
 http://thenickos.tk/reddragon/failed/exit/space-q6.php?playlist.m3u8
 
 #EXTINF:-1 group-title="Peliculas",Space HD
-http://m3u.iptvla.xyz/usuarios/src1/SpaceHD/Ismael.Diaz/ZEa.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(03)/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas",TNT
-http://m3u.iptvla.xyz/usuarios/src1/TNT/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 group-title="Peliculas",Sony HD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas",TNT HD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(02)/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas",TNT Series
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="Peliculas",TCM
 http://latinchannel.tv:8000/live/sonia2/321/445.ts
+
+#EXTINF:-1 group-title="Peliculas",Universal Channel
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(03)/index.m3u8
 
 ########## DOCUMENTALES ##########
 
 #EXTINF:-1 group-title="Documentales",Animal Planet HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",Animal Planet HD Op.2
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="Documentales",Discovery Channel
 http://m3u.iptvla.xyz/usuarios/src1/DiscoveryChannel/Ismael.Diaz/ZEa.m3u8
@@ -108,6 +123,9 @@ http://thenickos.tk/reddragon/failed/exit/history-q6.php?playlist.m3u8
 
 #EXTINF:-1 group-title="Documentales",History Channel Op.2
 http://m3u.iptvla.xyz/usuarios/src1/HistoryChannel/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="Documentales",History Channel HD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="Documentales",Nat Geo
 http://m3u.iptvla.xyz/usuarios/src1/NatGeo/Ismael.Diaz/ZEa.m3u8
