@@ -85,6 +85,9 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE_HD)/Stream
 #EXTINF:-1 group-title="Peliculas",Film Zone HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(03)/index.m3u8
 
+#EXTINF:-1 group-title="Peliculas",Golden
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/index.m3u8
+
 #EXTINF:450 group-title="Peliculas",HBO
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/index.m3u8
 
@@ -103,6 +106,9 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MAX)/index.m3u8
 #EXTINF:476 group-title="Peliculas",MAX Prime
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/index.m3u8
 
+#EXTINF:-1 group-title="Peliculas",MultiPremier
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MULTIPREMIER)/index.m3u8
+
 #EXTINF:413 group-title="Peliculas",Paramount Channel
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/index.m3u8?srregio
 
@@ -114,6 +120,9 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(03)/index
 
 #EXTINF:420 group-title="Peliculas",Studio Universal
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(STUDIO_UNIVERSAL)/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas",Sundance
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SUNDANCE_HD)/index.m3u8
 
 #EXTINF:421 group-title="Peliculas",TCM
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TCM)/index.m3u8
