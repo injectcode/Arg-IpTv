@@ -41,7 +41,7 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u
 
 ########## SERIES/PELICULAS ##########
 
-#EXTINF:-1 group-title="Peliculas",AE Mundo HD
+#EXTINF:-1 group-title="Peliculas",A&E Mundo HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="Peliculas",AXN HD
