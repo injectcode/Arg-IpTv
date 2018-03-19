@@ -11,8 +11,11 @@ http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 group-title="Noticias",Canal 4
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
 
-#EXTINF:-1 group-title="Noticias",Music TOp
+#EXTINF:-1 group-title="Noticias",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 group-title="Noticias",Telemax HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8 
 
 #EXTINF:-1 group-title="Noticias",CNN en Español
 
@@ -41,7 +44,6 @@ http://panel.dattalive.com:1935/8204/8204/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/12/elnuevenuevo.jpg" group-title="Noticias",El Nueve
 
 
-
 ########## SERIES/PELICULAS ##########
 
 #EXTINF:-1 group-title="Peliculas",A&E Mundo HD
@@ -65,6 +67,18 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(04)/index.
 #EXTINF:-1 group-title="Peliculas",FX HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/index.m3u8
 
+#EXTINF:434 group-title="Peliculas",FOX Cinema
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/index.m3u8
+
+#EXTINF:435 group-title="Peliculas",Fox Action
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/index.m3u8
+
+#EXTINF:440 group-title="Peliculas",FOX Movies
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/index.m3u8
+
+#EXTINF:442 group-title="Peliculas",FOX Classics
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CLASSICS_HD)/index.m3u8
+
 #EXTINF:-1 group-title="Peliculas",Fox Life
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE_HD)/Stream(03)/index.m3u8
 
@@ -82,6 +96,12 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(03)
 
 #EXTINF:-1 group-title="Peliculas",I-Sat
 http://m3u.iptvla.xyz/usuarios/src1/ISat/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:470 group-title="Peliculas",MAX
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MAX)/index.m3u8
+
+#EXTINF:476 group-title="Peliculas",MAX Prime
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/index.m3u8
 
 #EXTINF:413 group-title="Peliculas",Paramount Channel
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/index.m3u8?srregio
@@ -120,6 +140,9 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream
 
 #EXTINF:-1 group-title="Documentales",MEGA (España-Perdon XD)
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8 
+
+#EXTINF:-1 group-title="Documentales",La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u
 
 #EXTINF:-1 group-title="Documentales",Discovery Channel
 
@@ -165,52 +188,8 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(03)/ind
 
 ########## Deportes ##########
 
-#EXTINF:-1 group-title="24/7",Olympic Channel / NBC
+#EXTINF:-1 group-title="Deportes",Olympic Channel / NBC
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804922110409900032/6_o7Xf13_400x400.jpg" group-title="Noticias",DeporTV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804922110409900032/6_o7Xf13_400x400.jpg" group-title="Deportes",DeporTV
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
-
-########## 24/7 ##########
-
-#EXTINF:-1 group-title="24/7",Bob Esponja
-http://m3u.iptvla.xyz/usuarios/src3/BobEsponja/Ismael.Diaz/ZEa.m3u8
-
-#EXTINF:-1 group-title="24/7",Caballeros del Zodiaco
-http://m3u.iptvla.xyz/usuarios/src3/CaballerosDelZodiaco/Ismael.Diaz/ZEa.m3u8
-
-#EXTINF:-1 group-title="24/7",Coyote y correcaminos
-http://m3u.iptvla.xyz/usuarios/src3/ElCoyoteYElCorrecaminos/Ismael.Diaz/ZEa.m3u8
-
-#EXTINF:-1 group-title="24/7",Doraemon
-http://m3u.iptvla.xyz/usuarios/src3/Doraemon/Ismael.Diaz/ZEa.m3u8
-
-#EXTINF:-1 group-title="24/7",Dragon Ball
-http://m3u.iptvla.xyz/usuarios/src3/DragonBall/Ismael.Diaz/ZEa.m3u8
-
-#EXTINF:-1 group-title="24/7",Dragon Ball GT
-http://m3u.iptvla.xyz/usuarios/src3/DragonBallGT/Ismael.Diaz/ZEa.m3u8
-
-#EXTINF:-1 group-title="24/7",Dragon Ball Super
-http://m3u.iptvla.xyz/usuarios/src3/DragonBallSuper/Ismael.Diaz/ZEa.m3u8
-
-#EXTINF:-1 group-title="24/7",Dragon Ball Z
-http://m3u.iptvla.xyz/usuarios/src4/DragonBallZ/Ismael.Diaz/ZEa.m3u8
-
-#EXTINF:-1 group-title="24/7",Dragon Ball Z Op.2
-http://m3u.iptvla.xyz/usuarios/src3/DragonBallZ2/Ismael.Diaz/ZEa.m3u8
-
-#EXTINF:-1 group-title="24/7",Los Simpsons
-http://m3u.iptvla.xyz/usuarios/src4/LosSimpson2/Ismael.Diaz/ZEa.m3u8
-
-#EXTINF:-1 group-title="24/7",Los Simpsons Op.2
-http://m3u.iptvla.xyz/usuarios/src5/LosSimpson/Ismael.Diaz/ZEa.m3u8
-
-#EXTINF:-1 group-title="24/7",Padre de Familia
-http://m3u.iptvla.xyz/usuarios/src3/PadreDeFamilia/Ismael.Diaz/ZEa.m3u8
-
-#EXTINF:-1 group-title="24/7",Pokemon
-http://m3u.iptvla.xyz/usuarios/src3/Pokemon/Ismael.Diaz/ZEa.m3u8
-
-#EXTINF:-1 group-title="24/7", Ranma 1/2
-http://m3u.iptvla.xyz/usuarios/src3/Ranma/Ismael.Diaz/ZEa.m3u8
