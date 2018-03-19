@@ -41,26 +41,17 @@ http://latinchannel.tv:8000/live/sonia2/321/1023.ts
 
 ########## SERIES/PELICULAS ##########
 
+#EXTINF:-1 group-title="Peliculas",AE Mundo HD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(03)/index.m3u8
+
 #EXTINF:-1 group-title="Peliculas",AXN HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/index.m3u8
 
 #EXTINF:-1 group-title="Peliculas",CineCanal HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Cinecanal HD Op2
-http://m3u.iptvla.xyz/usuarios/src1/CinecanalHD/Ismael.Diaz/ZEa.m3u8
-
-#EXTINF:-1 group-title="Peliculas",Cinemax
-http://m3u.iptvla.xyz/usuarios/src1/Cinemax/Ismael.Diaz/ZEa.m3u8
-
 #EXTINF:-1 group-title="Peliculas",Euro Channel
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(EUROCHANNEL)/index.m3u8
-
-#EXTINF:-1 group-title="Peliculas",Fox
-http://thenickos.tk/reddragon/failed/exit/f0x-q6.php?playlist.m3u8
-
-#EXTINF:-1group-title="Peliculas",Fox Op2
-http://m3u.iptvla.xyz/usuarios/src5/Fox/Ismael.Diaz/ZEa.m3u8
 
 #EXTINF:-1group-title="Peliculas",Fox HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(04)/index.m3u8
@@ -74,17 +65,11 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE_HD)/Stream
 #EXTINF:-1 group-title="Peliculas",Film Zone HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(03)/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas", HBO2
-http://thenickos.tk/reddragon/failed/exit/hb02-q6.php?playlist.m3u8
-
 #EXTINF:-1 group-title="Peliculas", HBO Family
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="Peliculas",I-Sat
 http://m3u.iptvla.xyz/usuarios/src1/ISat/Ismael.Diaz/ZEa.m3u8
-
-#EXTINF:-1 group-title="Peliculas", Space
-http://thenickos.tk/reddragon/failed/exit/space-q6.php?playlist.m3u8
 
 #EXTINF:-1 group-title="Peliculas",Space HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(03)/index.m3u8
@@ -97,9 +82,6 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(02)/index.
 
 #EXTINF:-1 group-title="Peliculas",TNT Series
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(03)/index.m3u8
-
-#EXTINF:-1 group-title="Peliculas",TCM
-http://latinchannel.tv:8000/live/sonia2/321/445.ts
 
 #EXTINF:-1 group-title="Peliculas",Universal Channel
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(03)/index.m3u8
@@ -133,22 +115,15 @@ http://m3u.iptvla.xyz/usuarios/src1/NatGeo/Ismael.Diaz/ZEa.m3u8
 ########## INFANTILES ##########
 
 #EXTINF:-1 group-title="Infantiles", Cartoon Network
-http://thenickos.tk/reddragon/failed/exit/cart_net-q6.php?playlist.m3u8
+
 
 #EXTINF:-1 group-title="Infantiles", Boomerang
-http://thenickos.tk/reddragon/failed/exit/boomerang-q4.php?playlist.m3u8
-
-#EXTINF:-1 group-title="Infantiles",Disney
-http://thenickos.tk/reddragon/failed/exit/d1sneyxd-q4.php?playlist.
-
-#EXTINF:-1 group-title="Infantiles",Disney Op2
-http://m3u.iptvla.xyz/usuarios/src1/DisneyChannel/Ismael.Diaz/ZEa.m3u8
 
 #EXTINF:-1 group-title="Infantiles",Disney XD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/index.m3u8
 
-#EXTINF:-1 group-title="Infantiles",Disney XD Op2
-http://m3u.iptvla.xyz/usuarios/src1/DisneyXD/Ismael.Diaz/ZEa.m3u8
+#EXTINF:-1 group-title="Infantiles",Disney Jr
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="Infantiles",Discovery Kids
 http://m3u.iptvla.xyz/usuarios/src1/DiscoveryKids/Ismael.Diaz/ZEa.m3u8
