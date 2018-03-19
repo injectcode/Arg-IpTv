@@ -1,5 +1,7 @@
 #EXTM3U Argentina
 
+########## Noticias ##########
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg" group-title="Noticias",Canal 26 720p
 http://200.115.193.177/live/26hd-720/.m3u8
 
@@ -9,8 +11,8 @@ http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804922110409900032/6_o7Xf13_400x400.jpg" group-title="Noticias",DeporTV
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.las400clases.com/sites/default/files/notas/encuentro.jpg" group-title="Noticias",Encuentro
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
+#EXTINF:-1 group-title="Noticias",CNN en Español
+http://m3u.iptvla.xyz/usuarios/src5/CNNenEspanol/Ismael.Diaz/ZEa.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/01/TodoNoticias12-Logo-300x300.jpg" group-title="Noticias",TN
 http://latinchannel.tv:8000/live/sonia2/321/1025.ts
@@ -37,31 +39,104 @@ http://latinchannel.tv:8000/live/sonia2/321/1024.ts
 http://latinchannel.tv:8000/live/sonia2/321/1023.ts
 
 
-# PREM 
+########## SERIES/PELICULAS ##########
 
-#EXTINF:-1,Animal Planet HD
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/index.m3u8
-
-#EXTINF:-1,CineCanal HD
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/index.m3u8
-
-#EXTINF:-1,AXN HD
+#EXTINF:-1 group-title="Peliculas",AXN HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/index.m3u8
 
-#EXTINF:-1,TCM.
-http://latinchannel.tv:8000/live/sonia2/321/445.ts
+#EXTINF:-1 group-title="Peliculas",CineCanal HD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/index.m3u8
 
-#EXTINF:-1,Fox Life
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE_HD)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Peliculas",Cinecanal HD Op2
+http://m3u.iptvla.xyz/usuarios/src1/CinecanalHD/Ismael.Diaz/ZEa.m3u8
 
-#EXTINF:-1,Disney XD
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/index.m3u8
+#EXTINF:-1 group-title="Peliculas",Cinemax
+http://m3u.iptvla.xyz/usuarios/src1/Cinemax/Ismael.Diaz/ZEa.m3u8
 
-#EXTINF:-1,Nickelodeon HD
-http://latinchannel.tv:8000/live/sonia2/321/427.ts
-
-#EXTINF:-1,Euro Channel
+#EXTINF:-1 group-title="Peliculas",Euro Channel
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(EUROCHANNEL)/index.m3u8
 
-#EXTINF:-1,FX HD
+#EXTINF:-1 group-title="Peliculas",Fox
+http://thenickos.tk/reddragon/failed/exit/f0x-q6.php?playlist.m3u8
+
+#EXTINF:-1group-title="Peliculas",Fox Op2
+http://m3u.iptvla.xyz/usuarios/src5/Fox/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1group-title="Peliculas",Fox HD
+http://m3u.iptvla.xyz/usuarios/src1/Fox1HD/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="Peliculas",FX HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas",Fox Life
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas",Film Zone HD
+http://m3u.iptvla.xyz/usuarios/src1/FilmZoneHD/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="Peliculas", HBO2
+http://thenickos.tk/reddragon/failed/exit/hb02-q6.php?playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas",I-Sat
+http://m3u.iptvla.xyz/usuarios/src1/ISat/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="Peliculas", Space
+http://thenickos.tk/reddragon/failed/exit/space-q6.php?playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas",Space HD
+http://m3u.iptvla.xyz/usuarios/src1/SpaceHD/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="Peliculas",TNT
+http://m3u.iptvla.xyz/usuarios/src1/TNT/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="Peliculas",TCM
+http://latinchannel.tv:8000/live/sonia2/321/445.ts
+
+########## DOCUMENTALES ##########
+
+#EXTINF:-1 group-title="Documentales",Animal Planet HD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",Discovery Channel
+http://m3u.iptvla.xyz/usuarios/src1/DiscoveryChannel/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.las400clases.com/sites/default/files/notas/encuentro.jpg" group-title="Documentales",Encuentro
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
+
+#EXTINF:-1 group-title="Documentales",History Channel
+http://thenickos.tk/reddragon/failed/exit/history-q6.php?playlist.m3u8
+
+#EXTINF:-1 group-title="Documentales",History Channel Op.2
+http://m3u.iptvla.xyz/usuarios/src1/HistoryChannel/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="Documentales",Nat Geo
+http://m3u.iptvla.xyz/usuarios/src1/NatGeo/Ismael.Diaz/ZEa.m3u8
+
+########## INFANTILES ##########
+
+#EXTINF:-1 group-title="Infantiles", Cartoon Network
+http://thenickos.tk/reddragon/failed/exit/cart_net-q6.php?playlist.m3u8
+
+#EXTINF:-1 group-title="Infantiles", Boomerang
+http://thenickos.tk/reddragon/failed/exit/boomerang-q4.php?playlist.m3u8
+
+#EXTINF:-1 group-title="Infantiles",Disney
+http://thenickos.tk/reddragon/failed/exit/d1sneyxd-q4.php?playlist.
+
+#EXTINF:-1 group-title="Infantiles",Disney Op2
+http://m3u.iptvla.xyz/usuarios/src1/DisneyChannel/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="Infantiles",Disney XD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/index.m3u8
+
+#EXTINF:-1 group-title="Infantiles",Disney XD Op2
+http://m3u.iptvla.xyz/usuarios/src1/DisneyXD/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="Infantiles",Discovery Kids
+http://m3u.iptvla.xyz/usuarios/src1/DiscoveryKids/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="Infantiles",Nickelodeon
+http://m3u.iptvla.xyz/usuarios/src1/Nickelodeon/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1 group-title="Infantiles",Nickelodeon HD
+http://latinchannel.tv:8000/live/sonia2/321/427.ts
