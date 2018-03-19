@@ -8,6 +8,12 @@ http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg" group-title="Noticias",Canal 26 480p
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
 
+#EXTINF:-1 group-title="Noticias",Canal 4
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
+
+#EXTINF:-1 group-title="Noticias",Music TOp
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
 #EXTINF:-1 group-title="Noticias",CNN en Español
 
 
@@ -15,10 +21,10 @@ http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.baraderoteinforma.com.ar/wp-content/uploads/2017/01/cosas_640x480-23.jpg" group-title="Noticias",Telefe
-
+http://www.coninfo.net:1935/13max/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/747466054834753536/LBbftqD9_400x400.jpg" group-title="Noticias",El Trece
-
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8?JoCaRoIPTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/A24-logonuevo.svg/902px-A24-logonuevo.svg.png" group-title="Noticias",A24
 
@@ -44,6 +50,9 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(03)/i
 #EXTINF:-1 group-title="Peliculas",AXN HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/index.m3u8
 
+#EXTINF:416 group-title="Peliculas",Cinecanal
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/index.m3u8?srregio
+
 #EXTINF:-1 group-title="Peliculas",CineCanal HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/index.m3u8
 
@@ -62,17 +71,32 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE_HD)/Stream
 #EXTINF:-1 group-title="Peliculas",Film Zone HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(03)/index.m3u8
 
+#EXTINF:450 group-title="Peliculas",HBO
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/index.m3u8
+
+#EXTINF:456 group-title="Peliculas",HBO Plus
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/index.m3u8?srregio
+
 #EXTINF:-1 group-title="Peliculas", HBO Family
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="Peliculas",I-Sat
 http://m3u.iptvla.xyz/usuarios/src1/ISat/Ismael.Diaz/ZEa.m3u8
 
+#EXTINF:413 group-title="Peliculas",Paramount Channel
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/index.m3u8?srregio
+
 #EXTINF:-1 group-title="Peliculas",Space HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="Peliculas",Sony HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(03)/index.m3u8
+
+#EXTINF:420 group-title="Peliculas",Studio Universal
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(STUDIO_UNIVERSAL)/index.m3u8
+
+#EXTINF:421 group-title="Peliculas",TCM
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TCM)/index.m3u8
 
 #EXTINF:-1 group-title="Peliculas",TNT HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(02)/index.m3u8
@@ -91,7 +115,10 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/index.m
 #EXTINF:-1 group-title="Documentales",Animal Planet HD Op.2
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(03)/index.m3u8
 
-#EXTINF:-1 group-title="Documentales",MEGA
+#EXTINF:230 group-title="Documentales",Comedy Central
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",MEGA (España-Perdon XD)
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8 
 
 #EXTINF:-1 group-title="Documentales",Discovery Channel
@@ -119,9 +146,8 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
 #EXTINF:-1 group-title="Infantiles", Cartoon Network
 
-
-#EXTINF:-1 group-title="Infantiles", Boomerang
-
+#EXTINF:323 group-title="Infantiles",Boomerang
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(BOOMERANG)/Stream(04)/index.m3u8
 
 #EXTINF:-1 group-title="Infantiles",Disney XD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/index.m3u8
