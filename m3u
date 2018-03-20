@@ -147,6 +147,9 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(03)
 #EXTINF:-1 group-title="Peliculas",Universal Channel
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(03)/index.m3u8
 
+#EXTINF:-1 group-title="Peliculas",Warner
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/index.m3u8
+
 ########## DOCUMENTALES ##########
 
 #EXTINF:-1 group-title="Documentales",Animal Planet HD
@@ -235,6 +238,9 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/index.m3u8
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
 
 ########## Musica ##########
+
+#EXTINF:-1 group-title="Musica",Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
 
 #EXTINF:-1 group-title="Musica",MTV
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/index.m3u8?srregio
