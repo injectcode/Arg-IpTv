@@ -11,11 +11,12 @@ http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 group-title="Noticias",Canal 4
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
 
-#EXTINF:-1 group-title="Noticias",Music Top
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-
 #EXTINF:-1 group-title="Noticias",Telemax HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8 
+
+
+#EXTINF:-1 group-title="Noticias",TreceMax TV
+http://coninfo.net:1935/13max/live/chunklist.m3u8
 
 #EXTINF:-1 group-title="Noticias",CNN en Español
 
@@ -58,11 +59,17 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/index.m3u8?
 #EXTINF:-1 group-title="Peliculas",CineCanal HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/index.m3u8
 
+#EXTINF:-1 group-title="Peliculas",Cine Dinamita
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINEMA_DINAMITA)/index.m3u8?srregio
+
 #EXTINF:-1 group-title="Peliculas",Euro Channel
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(EUROCHANNEL)/index.m3u8
 
 #EXTINF:-1group-title="Peliculas",Fox HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(04)/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas",FX
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(05)/index.m3u8
 
 #EXTINF:-1 group-title="Peliculas",FX HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/index.m3u8
@@ -80,7 +87,7 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/index.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CLASSICS_HD)/index.m3u8
 
 #EXTINF:-1 group-title="Peliculas",Fox Life
-
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
 
 #EXTINF:-1 group-title="Peliculas",Film Zone HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(03)/index.m3u8
@@ -91,14 +98,18 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/index.m3u8
 #EXTINF:450 group-title="Peliculas",HBO
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/index.m3u8
 
-#EXTINF:456 group-title="Peliculas",HBO Plus
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/index.m3u8?srregio
 
 #EXTINF:-1 group-title="Peliculas", HBO Family
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(03)/index.m3u8
 
+#EXTINF:456 group-title="Peliculas",HBO Plus
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/index.m3u8?srregio
+
+#EXTINF:-1 group-title="Peliculas",HBO Signature
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8
+
 #EXTINF:-1 group-title="Peliculas",I-Sat
-http://m3u.iptvla.xyz/usuarios/src1/ISat/Ismael.Diaz/ZEa.m3u8
+
 
 #EXTINF:470 group-title="Peliculas",MAX
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MAX)/index.m3u8
@@ -147,20 +158,37 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(
 #EXTINF:230 group-title="Documentales",Comedy Central
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(06)/index.m3u8
 
+#EXTINF:-1 group-title="Documentales",E!
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(E)/index.m3u8?srregio
+
 #EXTINF:-1 group-title="Documentales",MEGA (España-Perdon XD)
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8 
 
 #EXTINF:-1 group-title="Documentales",La Mega Mundial
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u
+
 
 #EXTINF:-1 group-title="Documentales",Discovery Channel
 
+#EXTINF:-1 group-title="Documentales",Discovery Civilization
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.las400clases.com/sites/default/files/notas/encuentro.jpg" group-title="Documentales",Encuentro
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
+#EXTINF:-1 group-title="Documentales",Discovery Home & Healt
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",Discovery ID
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",Discovery TLC
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",Discovery Turbo
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_TURBO)/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",Discovery Science
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_SCIENCE)/index.m3u8
 
 #EXTINF:-1 group-title="Documentales",History Channel
-
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/index.m3u8
 
 #EXTINF:-1 group-title="Documentales",History Channel Op.2
 
@@ -169,7 +197,7 @@ http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="Documentales",Nat Geo
-
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(05)/index.m3u8
 
 ########## INFANTILES ##########
 
@@ -195,6 +223,9 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(03)/ind
 
 #EXTINF:-1 group-title="Infantiles",Nickelodeon HD
 
+#EXTINF:-1 group-title="Infantiles",Tooncast
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/index.m3u8
+
 ########## Deportes ##########
 
 #EXTINF:-1 group-title="Deportes",Olympic Channel / NBC
@@ -202,3 +233,17 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(03)/ind
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804922110409900032/6_o7Xf13_400x400.jpg" group-title="Deportes",DeporTV
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
+
+########## Musica ##########
+
+#EXTINF:-1 group-title="Musica",MTV
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/index.m3u8?srregio
+
+#EXTINF:-1 group-title="Musica",MTV Dance
+http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/228/index.m3u8
+
+#EXTINF:-1 group-title="Musica",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica",Power HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
