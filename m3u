@@ -45,109 +45,108 @@ http://panel.dattalive.com:1935/8204/8204/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/12/elnuevenuevo.jpg" group-title="Noticias",El Nueve
 
 
-########## SERIES/PELICULAS ##########
+########## PREMIUM ##########
 
-#EXTINF:-1 group-title="Peliculas",A&E Mundo HD
+#EXTINF:-1 group-title="Premium",A&E Mundo HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(03)/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas",AXN HD
+#EXTINF:-1 group-title="Premium",AXN HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/index.m3u8
 
-#EXTINF:416 group-title="Peliculas",Cinecanal
+#EXTINF:416 group-title="Premium",Cinecanal
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/index.m3u8?srregio
 
-#EXTINF:-1 group-title="Peliculas",CineCanal HD
+#EXTINF:-1 group-title="Premium",CineCanal HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Cine Dinamita
+#EXTINF:-1 group-title="Premium",Cine Dinamita
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINEMA_DINAMITA)/index.m3u8?srregio
 
-#EXTINF:-1 group-title="Peliculas",Euro Channel
+#EXTINF:-1 group-title="Premium",Euro Channel
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(EUROCHANNEL)/index.m3u8
 
-#EXTINF:-1group-title="Peliculas",Fox HD
+#EXTINF:-1group-title="Premium",Fox HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(04)/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas",FX
+#EXTINF:-1 group-title="Premium",FX
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(05)/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas",FX HD
+#EXTINF:-1 group-title="Premium",FX HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/index.m3u8
 
-#EXTINF:434 group-title="Peliculas",FOX Cinema
+#EXTINF:434 group-title="Premium",FOX Cinema
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/index.m3u8
 
-#EXTINF:435 group-title="Peliculas",Fox Action
+#EXTINF:435 group-title="Premium",Fox Action
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/index.m3u8
 
-#EXTINF:440 group-title="Peliculas",FOX Movies
+#EXTINF:440 group-title="Premium",FOX Movies
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/index.m3u8
 
-#EXTINF:442 group-title="Peliculas",FOX Classics
+#EXTINF:442 group-title="Premium",FOX Classics
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CLASSICS_HD)/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Fox Life
+#EXTINF:-1 group-title="Premium",Fox Life
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Film Zone HD
+#EXTINF:-1 group-title="Premium",Film Zone HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(03)/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Golden
+#EXTINF:-1 group-title="Premium",Golden
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/index.m3u8
 
-#EXTINF:450 group-title="Peliculas",HBO
+#EXTINF:450 group-title="Premium",HBO
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/index.m3u8
 
-
-#EXTINF:-1 group-title="Peliculas", HBO Family
+#EXTINF:-1 group-title="Premium", HBO Family
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(03)/index.m3u8
 
-#EXTINF:456 group-title="Peliculas",HBO Plus
+#EXTINF:456 group-title="Premium",HBO Plus
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/index.m3u8?srregio
 
-#EXTINF:-1 group-title="Peliculas",HBO Signature
+#EXTINF:-1 group-title="Premium",HBO Signature
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas",I-Sat
+#EXTINF:-1 group-title="Premium",I-Sat
 
 
-#EXTINF:470 group-title="Peliculas",MAX
+#EXTINF:470 group-title="Premium",MAX
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MAX)/index.m3u8
 
-#EXTINF:476 group-title="Peliculas",MAX Prime
+#EXTINF:476 group-title="Premium",MAX Prime
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas",MultiPremier
+#EXTINF:-1 group-title="Premium",MultiPremier
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MULTIPREMIER)/index.m3u8
 
-#EXTINF:413 group-title="Peliculas",Paramount Channel
+#EXTINF:413 group-title="Premium",Paramount Channel
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/index.m3u8?srregio
 
-#EXTINF:-1 group-title="Peliculas",Space HD
+#EXTINF:-1 group-title="Premium",Space HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(03)/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Sony HD
+#EXTINF:-1 group-title="Premium",Sony HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(03)/index.m3u8
 
-#EXTINF:420 group-title="Peliculas",Studio Universal
+#EXTINF:420 group-title="Premium",Studio Universal
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(STUDIO_UNIVERSAL)/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Sundance
+#EXTINF:-1 group-title="Premium",Sundance
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SUNDANCE_HD)/index.m3u8
 
-#EXTINF:421 group-title="Peliculas",TCM
+#EXTINF:421 group-title="Premium",TCM
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TCM)/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas",TNT HD
+#EXTINF:-1 group-title="Premium",TNT HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(02)/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas",TNT Series
+#EXTINF:-1 group-title="Premium",TNT Series
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(03)/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Universal Channel
+#EXTINF:-1 group-title="Premium",Universal Channel
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(03)/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Warner
+#EXTINF:-1 group-title="Premium",Warner
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/index.m3u8
 
 ########## DOCUMENTALES ##########
@@ -253,3 +252,42 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 #EXTINF:-1 group-title="Musica",Power HD
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
+########## PELICULAS ##########
+
+#EXTINF:-1 group-title="Peliculas",La liga de justicia
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Liga%20De%20La%20Justicia%20Hdscr.lat.mp4
+
+#EXTINF:-1 group-title="Peliculas",Kingsman : El círculo dorado
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Kingsman%3A%20El%20c%C3%ADrculo%20dorado.c1rcl3.2017.hdrip.720p.subesp.gnula.mp
+
+#EXTINF:-1 group-title="Peliculas",Thor Ragnarok
+http://bit.ly/2zOMTbe?RTNews
+
+#EXTINF:-1 group-title="Peliculas",Thor Ragnarok Castellano
+http://bit.ly/2xx2sUg?RTNews
+
+#EXTINF:-1 group-title="Peliculas",It (Eso)
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:397-It.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas",Guardianes de la Galaxia
+https://goo.gl/sFaEVq
+
+#EXTINF:-1 group-title="Peliculas",Annabelle La Creacion
+https://archive.org/download/4nnSRREGIO.NET/4nnSRREGIO.NET.mkv
+
+#EXTINF:-1 group-title="Peliculas",Huye
+https://ia601500.us.archive.org/27/items/Cheverefans0012017/cheverefans%200012017.mp4?null=
+
+#EXTINF:-1 group-title="Peliculas",Las Aventuras del Capitan Calzoncillos
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:333-Las_aventuras_del_Capitan_Calzoncillos.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas",EL MAL DENTRO (2017)
+https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
+
+#EXTINF:-1 group-title="Peliculas",LA NOVIA (2017)
+https://archive.org/download/2121515121215412154/La.Novia.SrRegio.mkv
+
+#EXTINF:-1 group-title="Peliculas",CARRIE (2013)
+http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%282013%29/Carrie%20%282013%29%20Alternate%20Ending%20%281%29.mkv
+
