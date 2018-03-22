@@ -4,7 +4,10 @@ Lista Iptv de Argentina
 * Contiene canales premium de peliculas/series, documentales e infantiles, etc.. (Ej: Disney XD - Discovery - FOX, etc). 
 * Disposible en Android (Smart TV, Celular, Tablet, etc) o Windows
 
+Seguinos en nuestro Instagram @argiptv , alli respondemos dudas, escuchamos sus sugerencias, ideas e informamos sobre todos los cambios y actualizaciones nuevas.
 
+https://www.instagram.com/argiptv/
+ 
 # Android
 
 1. Descargar IPTV (Icono azul en PlayStore).
