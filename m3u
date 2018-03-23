@@ -242,10 +242,16 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804922110409900032/6_o7Xf13_400x400.jpg" group-title="Deportes",DeporTV
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
 
+#EXTINF:0 group-title="Deportes",TyC Play
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8 
+
 ########## Musica ##########
 
 #EXTINF:-1 group-title="Musica",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
+
+#EXTINF:-1 group-title="Musica",Mi Musica HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 
 #EXTINF:-1 group-title="Musica",MTV
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/index.m3u8?srregio
@@ -258,6 +264,9 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 #EXTINF:-1 group-title="Musica",Power HD
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica",Tele Musica
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8 
 
 ########## PELICULAS ##########
 
