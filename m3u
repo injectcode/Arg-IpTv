@@ -62,6 +62,12 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/index.m3u8
 #EXTINF:-1 group-title="Premium",Cine Dinamita
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINEMA_DINAMITA)/index.m3u8?srregio
 
+#EXTINF:-1 group-title="Premium" tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471903394359-Imagen.png", Cine Latino
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/index.m3u8
+
+#EXTINF:-1 group-title="Premium" tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487099996739-Imagen.png", De Pelicula
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DEPELICULA)/Stream(04)/index.m3u8
+
 #EXTINF:-1 group-title="Premium",Euro Channel
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(EUROCHANNEL)/index.m3u8
 
@@ -255,39 +261,8 @@ http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
 ########## PELICULAS ##########
 
-#EXTINF:-1 group-title="Peliculas",La liga de justicia
-https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Liga%20De%20La%20Justicia%20Hdscr.lat.mp4
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMmRkMDQzYzItZDFhMS00YzM1LTk0ZGMtZmExMzdiNzEwOTE4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",Veronica (2017)
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Veronica.2017.Castellano.mp4
 
-#EXTINF:-1 group-title="Peliculas",Kingsman : El círculo dorado
-https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Kingsman%3A%20El%20c%C3%ADrculo%20dorado.c1rcl3.2017.hdrip.720p.subesp.gnula.mp
-
-#EXTINF:-1 group-title="Peliculas",Thor Ragnarok
-http://bit.ly/2zOMTbe?RTNews
-
-#EXTINF:-1 group-title="Peliculas",Thor Ragnarok Castellano
-http://bit.ly/2xx2sUg?RTNews
-
-#EXTINF:-1 group-title="Peliculas",It (Eso)
-http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:397-It.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="Peliculas",Guardianes de la Galaxia
-https://goo.gl/sFaEVq
-
-#EXTINF:-1 group-title="Peliculas",Annabelle La Creacion
-https://archive.org/download/4nnSRREGIO.NET/4nnSRREGIO.NET.mkv
-
-#EXTINF:-1 group-title="Peliculas",Huye
-https://ia601500.us.archive.org/27/items/Cheverefans0012017/cheverefans%200012017.mp4?null=
-
-#EXTINF:-1 group-title="Peliculas",Las Aventuras del Capitan Calzoncillos
-http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:333-Las_aventuras_del_Capitan_Calzoncillos.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="Peliculas",EL MAL DENTRO (2017)
-https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
-
-#EXTINF:-1 group-title="Peliculas",LA NOVIA (2017)
-https://archive.org/download/2121515121215412154/La.Novia.SrRegio.mkv
-
-#EXTINF:-1 group-title="Peliculas",CARRIE (2013)
-http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%282013%29/Carrie%20%282013%29%20Alternate%20Ending%20%281%29.mkv
-
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMTUxODU0NjQ2Nl5BMl5BanBnXkFtZTgwMTc4NDQ0MzI@._V1_SX300.jpg",La noche del demonio: La ultima llave (2018)
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Insidious.The.Last.Key.2018.mp4
